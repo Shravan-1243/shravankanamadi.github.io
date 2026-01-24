@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, MS Office, MATLAB
+#### Technical Skills: Python, SQL, MS Office, Power BI, Tableu
 
 ## Education							       		
 - M.Sc., Data Science & Analytics	| University of Hertfordshire (_May 2025_)	 			        		
@@ -22,5 +22,18 @@
 - Performed feature engineering, model comparison, and performance evaluation
 - Delivered customer segmentation insights to support retention and marketing strategies
 **Tech**: Python, pandas, scikit-learn, XGBoost, EDA.
+🔗 Repository: [Add GitHub link]
+
+### Fake News Detection using Machine Learning & Explainable AI
+- Developed a text classification pipeline to detect fake vs real news articles
+- Implemented NLP techniques including TF-IDF vectorisation
+- Trained and compared multiple machine learning models
+- Applied Explainable AI (SHAP) to interpret predictions and improve model transparency
+**Tech**: Python, NLP, TF-IDF, ML models, SHAP
+🔗 Repository: [Add GitHub link]
+
+## Certifications
+- Oracle Cloud Infrastructure (OCI) – Data Science Professional
+- LinkedIn Learning – Business Analysis & Analytics Certifications
 
 ![EEG Band Discovery](---image path---)
