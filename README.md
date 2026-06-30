@@ -12,28 +12,28 @@ London, UK (PSW visa) · Open to BA/Data Analyst contract, freelance, and interi
 
 ## About
 
-I'm a Business Analyst who came up through data analytics — two years at NielsenIQ working with US retail and CPG clients, followed by an MSc in Data Science & Analytics at the University of Hertfordshire. That combination means I bring a data-literate edge to BA work: I can sit in a requirements workshop *and* understand what the resulting dashboard or data model actually needs to do.
+I'm a Business Analyst who came up through data analytics - two years at NielsenIQ working with US retail and CPG clients, followed by an MSc in Data Science & Analytics at the University of Hertfordshire. That combination means I bring a data-literate edge to BA work: I can sit in a requirements workshop *and* understand what the resulting dashboard or data model actually needs to do.
 
 I'm BCS Professional Member (MBCS), currently completing the IBM Business Analyst Professional Certificate ahead of the IIBA ECBA.
 
 ## Education
 
-- **MSc, Data Science & Analytics** — University of Hertfordshire (*May 2025*)
-- **BCA, Computer Applications** — KLE's PC Jabin College (*Sep 2021*)
+- **MSc, Data Science & Analytics** - University of Hertfordshire (*May 2025*)
+- **BCA, Computer Applications** - KLE's PC Jabin College (*Sep 2021*)
 
 ## Experience
 
-**Data Analyst (Business Analysis-aligned duties) — NielsenIQ** (*Oct 2021 – Dec 2023*)
+**Data Analyst (Business Analysis-aligned duties) - NielsenIQ** (*Oct 2021 – Dec 2023*)
 
 - Gathered, analysed, and documented reporting requirements from US retail clients, translating business needs into clear functional specifications for data and BI delivery teams
 - Mapped current-state reporting processes across CPG client accounts, identifying standardisation gaps and leading improvements that reduced manual reporting effort by 40%
 - Facilitated cross-functional collaboration between client stakeholders and delivery teams to standardise data definitions and align deliverables to agreed timelines
 - Designed stakeholder-facing dashboards in Power BI and Tableau, presenting category and sales performance insights to support client decision-making
-- Performed quality assurance and validation on large-scale datasets to confirm requirements were met before delivery — an early form of UAT-style sign-off
+- Performed quality assurance and validation on large-scale datasets to confirm requirements were met before delivery - an early form of UAT-style sign-off
 
 ## Business Analysis Case Studies
 
-End-to-end BA deliverables: business problem framing, stakeholder analysis, requirements documentation, process redesign, and benefits tracking — built to mirror what a contract BA actually delivers on a transformation programme.
+End-to-end BA deliverables: business problem framing, stakeholder analysis, requirements documentation, process redesign, and benefits tracking - built to mirror what a contract BA actually delivers on a transformation programme.
 
 ### 🏥 NHS A&E Patient Flow Improvement
 
@@ -63,23 +63,23 @@ A process improvement case study for retail self-checkout operations.
 
 ## Earlier Data Science Work
 
-From my MSc and self-directed learning — these reflect the analytical foundation the BA case studies above are built on.
+From my MSc and self-directed learning - these reflect the analytical foundation the BA case studies above are built on.
 
 **Customer Lifetime Value (CLV) Prediction & Customer Segmentation**
 End-to-end pipeline using RFM analysis, K-Means clustering, and Random Forest (R² = 0.9864) to generate actionable customer segments for retention and marketing strategy.
-*Tech: Python, pandas, scikit-learn, XGBoost* — [Repository](https://github.com/Shravan-1243/Customer-Segmentation-LTV)
+*Tech: Python, pandas, scikit-learn, XGBoost* - [Repository](https://github.com/Shravan-1243/Customer-Segmentation-LTV)
 
 **Fake News Detection using Machine Learning & Explainable AI**
 Text classification pipeline with TF-IDF vectorisation and SHAP-based model interpretability.
-*Tech: Python, NLP, TF-IDF, SHAP* — [Repository](https://github.com/Shravan-1243/fake-news-detection-ml-xai)
+*Tech: Python, NLP, TF-IDF, SHAP* - [Repository](https://github.com/Shravan-1243/fake-news-detection-ml-xai)
 
 ## Certifications
 
 - BCS Professional Membership (MBCS)
-- IBM Business Analyst Professional Certificate — in progress (targeting IIBA ECBA next)
-- BCS CPD: Agile Toolkit — in progress
-- Oracle Cloud Infrastructure Data Science Professional (1Z0-1110-25) — Oracle University
-- Career Essentials in Business Analysis — Microsoft & LinkedIn
-- Business Analysis Foundations: Business Process Modeling — LinkedIn
-- Agile Requirements Foundations — LinkedIn
-- SQL for Data Analysis — LinkedIn
+- IBM Business Analyst Professional Certificate - in progress (targeting IIBA ECBA next)
+- BCS CPD: Agile Toolkit - in progress
+- Oracle Cloud Infrastructure Data Science Professional (1Z0-1110-25) - Oracle University
+- Career Essentials in Business Analysis - Microsoft & LinkedIn
+- Business Analysis Foundations: Business Process Modeling - LinkedIn
+- Agile Requirements Foundations - LinkedIn
+- SQL for Data Analysis - LinkedIn
